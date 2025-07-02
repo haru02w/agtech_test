@@ -1,3 +1,6 @@
+# Observações:
+ - O codigo corrigido está na pasta `fixed`. Considere-o para avaliação
+ - Tambem refiz o codigo usando algumas praticas mais recomendadas do que a estrutura de codigo proposta na pasta `rewrite`.
 
 ## Observações extras:
 1. O `using namespace std;` não é recomendado pois pode conflitar com o namespace padrão utilizado pelo projeto. Não é um erro, mas uma má pratica.
